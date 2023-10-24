@@ -1,14 +1,14 @@
 
-    <h1 align="center" style="color: blue;">Hi 👋, I'm Jerome</h1>
-    <h3 align="center" style="color: blue;">A passionate frontend developer and graphics designer in Philippines</h3>
+<h1 align="center" style="color: blue;">Hi 👋, I'm Jerome</h1>
+<h3 align="center" style="color: blue;">A passionate frontend developer and graphics designer in Philippines</h3>
 
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=akotosijeromeeh&label=Profile%20views&color=0e75b6&style=flat" alt="akotosijeromeeh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akotosijeromeeh&label=Profile%20views&color=0e75b6&style=flat" alt="akotosijeromeeh" /> </p>
 
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akotosijeromeeh" alt="akotosijeromeeh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akotosijeromeeh" alt="akotosijeromeeh" /></a> </p>
 
-    - 🔭 I’m currently working on **Our Capstone**
+ - 🔭 I’m currently working on **Our Capstone**
 
-    - 🌱 I’m currently learning **Mern Stack | React Native | Pen Test**
+- 🌱 I’m currently learning **Mern Stack | React Native | Pen Test**
 
     - 👯 I’m looking to collaborate on **My Future Project**
 
